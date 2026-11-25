@@ -39,3 +39,11 @@ data/
 certs/
 *.p12
 .keystore
+=======
+/target/
+/.idea/
+/*.iml
+/out/
+.DS_Store
+*.class
+
